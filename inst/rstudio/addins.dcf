@@ -1,0 +1,4 @@
+Name: Save this object
+Description: Inserts code to save selected object as .rds and later re-load it
+Binding: saveThisObject
+Interactive: false
