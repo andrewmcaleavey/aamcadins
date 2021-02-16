@@ -1,0 +1,14 @@
+Package: aamcaddins
+Type: Package
+Title: Addins developed by me for me
+Version: 0.1.0
+Author: Andrew McAleavey
+Maintainer: Andrew McAleavey <andrew.mcaleavey@gmail.com>
+Description: Just contains addins. Maybe just one. Might not work.
+    Do not trust.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 7.1.1
